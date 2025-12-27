@@ -14,7 +14,7 @@ GIT -Version control software -like (alpha version, Beta version, Gamma Version)
 
 
 
-**GITHUB -** GitHub is web based hosting service software tool - Owned by Microsoft
+**GITHUB -** GitHub is web based hosting service software tool - Owned by Microsoft.
 
 
 
@@ -22,9 +22,11 @@ GIT -Version control software -like (alpha version, Beta version, Gamma Version)
 
 Create Account in GITHUB
 
-
+-------------------------
 
 Step 1- https://github.com
 
-step 2- Username : AjeethkumarKarthik , Password : Powndivya@143 Email id: vijayakarthikofficial@gmail.com
+step 2- Username : AjeethkumarKarthik , Password : Powndivya@143, Email id: vijayakarthikofficial@gmail.com
+
+step 3- Create Repositories -add File -commit message -save changes
 
